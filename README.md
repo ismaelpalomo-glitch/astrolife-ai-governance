@@ -33,10 +33,10 @@ AI governance · Verifiable AI · Auditable AI · Sovereign AI · AI governance 
 
 Public reference repository for the 2026 paper.
 
-
-**Paper:** [AI_Governance_Engineering_Governments_EU_Canada_2026.docx](./AI_Governance_Engineering_Governments_EU_Canada_2026.docx)
-
 **PDF:** [AI_Governance_Engineering_Governments_EU_Canada_2026.pdf](AI_Governance_Engineering_Governments_EU_Canada_2026.pdf)
+
+**DOCX:** [AI_Governance_Engineering_Governments_EU_Canada_2026.docx](AI_Governance_Engineering_Governments_EU_Canada_2026.docx)
+
 
 ### Author
 
