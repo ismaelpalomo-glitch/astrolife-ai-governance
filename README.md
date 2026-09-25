@@ -36,6 +36,8 @@ Public reference repository for the 2026 paper.
 
 **Paper:** [AI_Governance_Engineering_Governments_EU_Canada_2026.docx](./AI_Governance_Engineering_Governments_EU_Canada_2026.docx)
 
+**PDF:** [AI_Governance_Engineering_Governments_EU_Canada_2026.pdf](AI_Governance_Engineering_Governments_EU_Canada_2026.pdf)
+
 ### Author
 
 **Ismael Palomo Balañá**  
