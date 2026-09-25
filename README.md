@@ -2,6 +2,10 @@
 
 ## AI Governance Engineering for Governments — EU & Canada
 
+**Official Paper · 2026**
+Public reference edition.
+**Version:** 1.0 · September 2026
+
 AstroLife™ develops verifiable, auditable and sovereign-oriented AI governance architectures for governments, public institutions and critical infrastructures.
 
 This repository contains the 2026 paper:
@@ -21,6 +25,13 @@ The paper examines the transition from AI regulation to operational governance c
 - Public-sector AI deployment
 - EU and Canadian governance contexts
 
+### Keywords
+
+AI governance · Verifiable AI · Auditable AI · Sovereign AI · AI governance engineering · Public-sector AI · EU AI Act · Canada · Regulatory traceability
+
+### Access
+
+Public reference repository for the 2026 paper.
 
 
 **Paper:** [AI_Governance_Engineering_Governments_EU_Canada_2026.docx](./AI_Governance_Engineering_Governments_EU_Canada_2026.docx)
